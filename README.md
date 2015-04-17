@@ -28,3 +28,10 @@ The first and most comprehensive book on bringing the startup mindset into large
 by Jez Humble and David Farley
 
 Getting software released to users is often a painful, risky, and time-consuming process. This groundbreaking new book sets out the principles and technical practices that enable rapid, incremental delivery of high quality, valuable new functionality to users. Through automation of the build, deployment, and testing process, and improved collaboration between developers, testers, and operations, …
+
+
+### [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+
+by @kahun
+
+A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP
