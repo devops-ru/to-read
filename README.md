@@ -53,3 +53,10 @@ by @kahun
 A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP
 
 ### [97 Things Every Software Architect Should Know](https://manohars.files.wordpress.com/2009/11/97-things-every-software-architect-should-know.pdf)
+
+
+
+
+## More
+
+[ops books](https://github.com/stack72/ops-books)
