@@ -46,6 +46,30 @@ by Blake Masters and Peter Thiel
 
 The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. If you are copying these guys, you aren’t learning from them. It’s easier to copy a model than to make something new: doing what we already know how to do takes the world from 1 to n, adding more of something familiar. Every new creation goes from 0 to 1. This book is about how to get there.
 
+### Time Management for System Administrators
+by Thomas A. Limoncelli
+
+(http://shop.oreilly.com/product/9780596007836.do)
+(http://www.ozon.ru/context/detail/id/3373340/)
+
+Time is a precious commodity, especially if you're a system administrator. No other job pulls people in so many directions at once. Users interrupt you constantly with requests, preventing you from getting anything done. Your managers want you to get long-term projects done but flood you with requests for quick-fixes that prevent you from ever getting to those long-term projects. But the pressure is on you to produce and it only increases with time. What do you do?
+
+The answer is time management. And not just any time management theory--you want Time Management for System Administrators, to be exact. With keen insights into the challenges you face as a sys admin, bestselling author Thomas Limoncelli has put together a collection of tips and techniques that will help you cultivate the time management skills you need to flourish as a system administrator.
+
+Time Management for System Administrators understands that an Sys Admin often has competing goals: the concurrent responsibilities of working on large projects and taking care of a user's needs. That's why it focuses on strategies that help you work through daily tasks, yet still allow you to handle critical situations that inevitably arise.
+
+Among other skills, you'll learn how to:
+
+* Manage interruptions
+* Eliminate timewasters
+* Keep an effective calendar
+* Develop routines for things that occur regularly
+* Use your brain only for what you're currently working on
+* Prioritize based on customer expectations
+* Document and automate processes for faster execution
+
+What's more, the book doesn't confine itself to just the work environment, either. It also offers tips on how to apply these time management tools to your social life. It's the first step to a more productive, happier you.
+
 ### [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 by @kahun
