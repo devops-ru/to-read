@@ -46,11 +46,19 @@ by Blake Masters and Peter Thiel
 
 The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. If you are copying these guys, you aren’t learning from them. It’s easier to copy a model than to make something new: doing what we already know how to do takes the world from 1 to n, adding more of something familiar. Every new creation goes from 0 to 1. This book is about how to get there.
 
+### The Practice of Cloud System Administration
+by Thomas A. Limoncelli
+
+- http://the-cloud-book.com/
+- http://www.amazon.com/Practice-Cloud-System-Administration-Distributed/dp/032194318X/
+
+The Practice of Cloud System Administration, focuses on “distributed” or “cloud” computing and brings a DevOps/SRE sensibility to the practice of system administration. Unsatisfied with books that cover either design or operations in isolation, the authors created this authoritative reference centered around a comprehensive approach. Case studies and examples from Google, Twitter, Facebook, Etsy, Netflix, Amazon and other industry giants are explained in practical ways that are useful to all enterprises.
+
 ### Time Management for System Administrators
 by Thomas A. Limoncelli
 
-(http://shop.oreilly.com/product/9780596007836.do)
-(http://www.ozon.ru/context/detail/id/3373340/)
+- http://shop.oreilly.com/product/9780596007836.do
+- http://www.ozon.ru/context/detail/id/3373340/
 
 Time is a precious commodity, especially if you're a system administrator. No other job pulls people in so many directions at once. Users interrupt you constantly with requests, preventing you from getting anything done. Your managers want you to get long-term projects done but flood you with requests for quick-fixes that prevent you from ever getting to those long-term projects. But the pressure is on you to produce and it only increases with time. What do you do?
 
