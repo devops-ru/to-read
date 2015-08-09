@@ -1,6 +1,6 @@
 # Books &amp; articles for DevOps to read
 
-
+## Books
  	
 ### The Phoenix Project
 
@@ -78,6 +78,8 @@ Among other skills, you'll learn how to:
 
 What's more, the book doesn't confine itself to just the work environment, either. It also offers tips on how to apply these time management tools to your social life. It's the first step to a more productive, happier you.
 
+## Articles and misc stuff
+
 ### [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 by @kahun
@@ -86,8 +88,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by A
 
 ### [97 Things Every Software Architect Should Know](https://manohars.files.wordpress.com/2009/11/97-things-every-software-architect-should-know.pdf)
 
+### [Sysadvent](http://sysadvent.blogspot.ru/)
 
+One article for each day of December, ending on the 25th article.
 
+With the goals of of sharing, openness, and mentoring, we aim to provide great articles about systems administration topics written by fellow sysadmins.
 
 ## More
 
